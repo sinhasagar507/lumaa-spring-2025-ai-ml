@@ -1,3 +1,3 @@
 # Demo Video
 
-🎥 Access the video on the file: `video_recording.mp4`
+🎥 Access the video on the file: [record](screen_recording.mp4)
