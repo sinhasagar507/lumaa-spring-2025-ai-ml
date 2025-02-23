@@ -9,6 +9,7 @@ This project implements a **content-based recommendation system** that suggests 
 - **Source** [IMDb Dataset of Top 1000 Movies and TV Shows - Kaggle](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows). Download the dataset from given source (data will be uploaded to repository as well) and save it in desired location. Change the path to dataset in the notebook accordingly.
 
 ## Setup Instructions
+Fork the repository and do the following: 
 
 ### **Install Python (Recommended Version: `Python 3.8+`)**
 Ensure you have Python installed. You can check by running:
