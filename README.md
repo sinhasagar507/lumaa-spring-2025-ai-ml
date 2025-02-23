@@ -76,3 +76,5 @@ recommend_from_text(
 - The reduced vector space size in the second recommendation system makes it more relevant, as we get results with higher similarity scores. It includes **Ghostbusters**, which aligns with **comedy+sci-fi** action theme. Additionally, **Gattaca** & **Blade Runner** add strong **sci-fi/thriller** elements to the second system. 
 - **Aliens** is the only consistent correct recommendation among the two systems. 
 - The first system's result is more focussed on **comedy**.
+
+For accessing the video demo, refer **DEMO.md**. 
